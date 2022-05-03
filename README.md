@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katgoheen
+- 👋 Hi, I’m @kategoheen
 - 👀 I’m interested in DAOs, DeSci, and mental health
 - 🌱 I’m currently learning... psychotherapy (qualifying), tokenomics, how to run a DAO 
 - 💞️ I’m looking to collaborate on Blu3 DAO/ bringing more womxn into the space
